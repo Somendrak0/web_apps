@@ -4,7 +4,7 @@ from sklearn import datasets
 import pickle
 
 # Header------------------/
-st.header("Irirs Dataset Prediction.")
+st.header("Irir Dataset Prediction.")
 
 st.write("""
 I made this web app to **pridict the species**. You can **predict** by **entering Sepal length, Sepal width, Patel length, Petal width**.
